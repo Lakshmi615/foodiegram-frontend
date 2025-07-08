@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/foodiegram-fullstack/static/css/main.e6c13ad2.css",
-    "main.js": "/foodiegram-fullstack/static/js/main.968599fa.js",
+    "main.js": "/foodiegram-fullstack/static/js/main.db42649b.js",
     "static/js/453.d5484067.chunk.js": "/foodiegram-fullstack/static/js/453.d5484067.chunk.js",
     "index.html": "/foodiegram-fullstack/index.html",
     "main.e6c13ad2.css.map": "/foodiegram-fullstack/static/css/main.e6c13ad2.css.map",
-    "main.968599fa.js.map": "/foodiegram-fullstack/static/js/main.968599fa.js.map",
+    "main.db42649b.js.map": "/foodiegram-fullstack/static/js/main.db42649b.js.map",
     "453.d5484067.chunk.js.map": "/foodiegram-fullstack/static/js/453.d5484067.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.968599fa.js"
+    "static/js/main.db42649b.js"
   ]
 }
